@@ -1,0 +1,20 @@
+Url: https://servicioanalisistexto.cognitiveservices.azure.com/text/analytics/v3.0/KeyPhrases
+
+Content-Type: application/json
+
+Ocp-Apim-Subscription-Key: 8b4c7829af844bc699425c01e131246a
+
+//Detección Idioma
+https://docs.microsoft.com/es-mx/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-language-detection
+
+//Análisis de sentimientos
+https://docs.microsoft.com/es-mx/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-sentiment-analysis?tabs=version-3
+
+//Análisis de texto
+https://docs.microsoft.com/es-mx/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-keyword-extraction
+
+//Reconocimiento de entidades
+https://docs.microsoft.com/es-mx/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-entity-linking?tabs=version-3-preview
+
+//Idiomas soportados por el servicio de análisis de texto
+https://docs.microsoft.com/es-mx/azure/cognitive-services/text-analytics/language-support?tabs=sentiment-analysis

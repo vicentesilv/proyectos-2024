@@ -1,0 +1,9 @@
+Llaves y puntos de acceso utilizados en la sesión 8 del módulo 4
+
+------Servicio Cognitivo de Reconocimiento Facial------
+
+Región: Centro Sur EU 
+
+Llave: 326d364a0fbe4a39998455172d1a3b46
+
+Punto de Acceso: https://servicioface.cognitiveservices.azure.com/

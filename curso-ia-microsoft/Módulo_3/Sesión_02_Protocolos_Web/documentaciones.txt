@@ -1,0 +1,43 @@
+Este documento de texto es para que siempre los participantes tengan presente
+donde pueden obtener más información sobre html de páginas oficiales.
+
+Documentación de W3C:
+https://www.w3.org/TR/2017/REC-html52-20171214/introduction.html#background
+
+Documentación de Mozilla:
+https://developer.mozilla.org/es/docs/Web/HTML
+
+En cada una de ellas se encontrará toda la información que tiene
+que ver con html, además contienen diversos ejemplos de cada etiqueta
+para que de una forma sencilla puedas ver como aplicarlo en programación.
+
+Textos de ejemplos para ponerlos en tu página web
+https://es.lipsum.com/
+
+Colores para agregar en tu página web, OJO - Tomar solo RGB
+https://htmlcolorcodes.com/es/
+
+Documentación para entender mejor sobre margin
+https://developer.mozilla.org/es/docs/Web/CSS/margin
+
+Ideas para estructurar tu página web
+https://www.w3schools.com/html/html5_semantic_elements.asp
+
+Buenas prácticas de HTML
+https://www.w3schools.com/html/html5_syntax.asp
+
+Distintos tipos de listas en css
+https://www.w3schools.com/cssref/pr_list-style-type.asp
+
+Ejemplos de distintas listas
+https://www.w3schools.com/cssref/tryit.asp?filename=trycss_list-style-type_all
+
+Pasos para subir tu página a GitHub
+https://developer.mozilla.org/es/docs/Learn/Common_questions/Using_Github_pages
+https://devcode.la/tutoriales/publicar-tu-web-usando-github-pages/
+
+
+
+
+
+
